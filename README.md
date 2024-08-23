@@ -1,1 +1,2 @@
-<h1>Todos os arquivos do trabalho de Front End estão aqui.</h1>
+Transferindo os arquivos do projeto de Front para o Git;
+Basicamente temos aqui os arquivos do site da banda Slipknot e o site em sí.
