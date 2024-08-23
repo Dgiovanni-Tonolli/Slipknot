@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1% 2% 3% 2%;
+}
+#box__title{
+    display: flex;
+    margin-bottom: 2%;
+}
+#box--title{
+    font-size: 3.5em;
+}
+#box__buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0em 3em;
+    margin-bottom: 3%;
+}
+.buttons{
+    font-size: 2em;
+    border-radius: 25px;
+    border: 0.10em rgb(255, 255, 255) solid;
+    padding: 2% 10%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.buttons:hover{
+    transition: 0.6s;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+#box__text{
+    display: flex;
+}
+#box--text{
+    font-size: 2em;
+}
+#box__two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0% 2% 3% 2%;
+}
+#img__shawn{
+    display: flex;
+}
+#img--shawn{
+    height: 350px;
+    width: 350px;
+}
+#shawn__text{
+    display: flex;
+    margin-left: 5%;
+}
+#shawn--text{
+    font-size: 2em;
+}
